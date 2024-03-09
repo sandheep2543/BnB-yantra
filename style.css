@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+form {
+    text-align: center;
+}
+label, input, select, button {
+    display: block;
+    margin: 10px auto;
+}
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.btn{
+    display: flex;
+    color: bisque;
+    border: 2px solid red;
+}
